@@ -1,0 +1,15 @@
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\bin\Debug\net6.0\AllAPIService.IRepository.deps.json
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\bin\Debug\net6.0\AllAPIService.IRepository.dll
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\bin\Debug\net6.0\AllAPIService.IRepository.pdb
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\bin\Debug\net6.0\AllAPIService.Models.dll
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\bin\Debug\net6.0\AllAPIService.Models.pdb
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\AllAPIService.IRepository.csproj.AssemblyReference.cache
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\AllAPIService.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\AllAPIService.IRepository.AssemblyInfoInputs.cache
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\AllAPIService.IRepository.AssemblyInfo.cs
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\AllAPIService.IRepository.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\AllAPIService.IRepository.csproj.CopyComplete
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\AllAPIService.IRepository.dll
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\refint\AllAPIService.IRepository.dll
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\AllAPIService.IRepository.pdb
+C:\Projects\GitHub\WebApi Projects\AllAPIService.IRepository\obj\Debug\net6.0\ref\AllAPIService.IRepository.dll

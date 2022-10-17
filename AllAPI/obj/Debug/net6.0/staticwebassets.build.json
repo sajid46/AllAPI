@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CuZ7wgLOSUHhX7Ks7mg60lW1EJ15mrfDg72XN8PdkBY=",
+  "Source": "AllAPIService.Api",
+  "BasePath": "_content/AllAPIService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
